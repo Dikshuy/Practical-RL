@@ -68,7 +68,7 @@ class MDP:
 
     def get_next_states(self, state, action):
         """ return a dictionary of {next_state1 : P(next_state1 | state, action), next_state2: ...} """
-        assert action in self.get_possible_actions(state), "cannot do action %s from state %s" % (action, state)
+#         assert action in self.get_possible_actions(state), "cannot do action %s from state %s" % (action, state)
         return self._transition_probs[state][action]
 
     def get_transition_prob(self, state, action, next_state):
