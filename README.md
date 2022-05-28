@@ -5,3 +5,9 @@
 * Lecture: RL problems around us. Decision processes. Stochastic optimization, Crossentropy method. Parameter space search vs action space search.
 * Seminar: Welcome into openai gym. Tabular CEM for Taxi-v0, deep CEM for box2d environments.
 * Assignments: CEM and deep CEM implementations 
+
+### Week 2 - Value-based methods
+
+* Lecture: Discounted reward MDP. Value-based approach. Value iteration. Policy iteration. Discounted reward fails.
+* Seminar: Value iteration
+* Assignments: Value Iteration and Policy Iteration implementations
