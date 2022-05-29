@@ -11,3 +11,9 @@
 * Lecture: Discounted reward MDP. Value-based approach. Value iteration. Policy iteration. Discounted reward fails.
 * Seminar: Value iteration
 * Assignments: Value Iteration and Policy Iteration implementations
+
+### Week 3 - Model-free reinforcement learning
+
+* Lecture: Q-learning. SARSA. Off-policy Vs on-policy algorithms. N-step algorithms. TD(Lambda).
+* Seminar: Qlearning Vs SARSA Vs Expected Value SARSA
+* Assignment - Q-learning, experience replay and SARSA implementation
