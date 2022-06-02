@@ -17,3 +17,8 @@
 * Lecture: Q-learning. SARSA. Off-policy Vs on-policy algorithms. N-step algorithms. TD(Lambda).
 * Seminar: Qlearning Vs SARSA Vs Expected Value SARSA
 * Assignment - Q-learning, experience replay and SARSA implementation
+
+### Week 4 - Deep Learning recap with pytorch
+
+* Lecture: Deep learning 101
+* Seminar: Intro to pytorch, simple image classification with convnets
